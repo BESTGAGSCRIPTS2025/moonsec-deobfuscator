@@ -38,7 +38,7 @@ A powerful Discord bot that deobfuscates multiple types of Lua obfuscators inclu
    \`\`\`
 
 ### Option 3: Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://www.heroku.com/deploy/?template=https://github.com/heroku/nodejs-getting-started))
 
 1. Click the deploy button above
 2. Set the required environment variables in Heroku
